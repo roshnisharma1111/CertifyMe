@@ -2,8 +2,6 @@
 
 ---
 
-## 🚀 Getting Started
-
 1. **Clone the provided repository**
    ```bash
    git clone https://github.com/Neerajvs32/Test1.git
